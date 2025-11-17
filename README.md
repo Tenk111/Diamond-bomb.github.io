@@ -11,5 +11,3 @@
   不會收集任何資料</p>
 </body>
 </html>
-
-google.com, pub-2489785991493394, DIRECT, f08c47fec0942fa0
